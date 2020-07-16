@@ -1,0 +1,30 @@
+@relation Datos-354-weka.filters.unsupervised.attribute.Discretize-B5-M-1.0-Rfirst-last-precision6
+
+@attribute ci {'\'(-inf-5601604.2]\'','\'(5601604.2-6815534.4]\'','\'(6815534.4-8029464.6]\'','\'(8029464.6-9243394.8]\'','\'(9243394.8-inf)\''}
+@attribute nombre {'Bismarck Mayta Tintaya','Jaime Aduviri Silvestre','Ines Ticona Bueno','Joel Mamani Churata','Balboa Churqui Miguel','Cordero Mamani Noemi','Flores Espinoza Eva','Laime laguna Osvaldo','Sejas Mamani Limber','Fernandez Balboa Juan','Marca Flores Martha','Garcia Chambi Bryan','Velazques Bautista Alejandra','Chavez Chipana Grover','Yujra Casas Salomon','Laura Menacho Javier','Rodriguez Ortega Jose','Lima Machaca Victoria','Tintaya Vargas Maria','Marquez Balboa Jose'}
+@attribute sexo {masculino,femenino}
+@attribute departamento {'La Paz','La paz'}
+@attribute 'nota promedio' {'\'(-inf-41]\'','\'(41-52]\'','\'(52-63]\'','\'(63-74]\'','\'(74-inf)\''}
+@attribute edad numeric
+
+@data
+'\'(-inf-5601604.2]\'','Bismarck Mayta Tintaya',masculino,'La Paz','\'(52-63]\'',24
+'\'(5601604.2-6815534.4]\'','Jaime Aduviri Silvestre',masculino,'La paz','\'(52-63]\'',23
+'\'(9243394.8-inf)\'','Ines Ticona Bueno',femenino,'La Paz','\'(74-inf)\'',21
+'\'(8029464.6-9243394.8]\'','Joel Mamani Churata',masculino,'La Paz','\'(41-52]\'',20
+'\'(-inf-5601604.2]\'','Balboa Churqui Miguel',masculino,'La Paz','\'(63-74]\'',22
+'\'(9243394.8-inf)\'','Cordero Mamani Noemi',femenino,'La Paz','\'(52-63]\'',27
+'\'(9243394.8-inf)\'','Flores Espinoza Eva',femenino,'La Paz','\'(52-63]\'',18
+'\'(8029464.6-9243394.8]\'','Laime laguna Osvaldo',masculino,'La Paz','\'(-inf-41]\'',23
+'\'(5601604.2-6815534.4]\'','Sejas Mamani Limber',masculino,'La Paz','\'(52-63]\'',21
+'\'(-inf-5601604.2]\'','Fernandez Balboa Juan',masculino,'La Paz','\'(74-inf)\'',26
+'\'(9243394.8-inf)\'','Marca Flores Martha',femenino,'La Paz','\'(52-63]\'',22
+'\'(6815534.4-8029464.6]\'','Garcia Chambi Bryan',masculino,'La Paz','\'(63-74]\'',20
+'\'(5601604.2-6815534.4]\'','Velazques Bautista Alejandra',femenino,'La Paz','\'(41-52]\'',28
+'\'(-inf-5601604.2]\'','Chavez Chipana Grover',masculino,'La Paz','\'(52-63]\'',25
+'\'(5601604.2-6815534.4]\'','Yujra Casas Salomon',masculino,'La Paz','\'(52-63]\'',21
+'\'(9243394.8-inf)\'','Laura Menacho Javier',masculino,'La Paz','\'(-inf-41]\'',27
+'\'(-inf-5601604.2]\'','Rodriguez Ortega Jose',masculino,'La Paz','\'(63-74]\'',24
+'\'(6815534.4-8029464.6]\'','Lima Machaca Victoria',femenino,'La Paz','\'(52-63]\'',22
+'\'(8029464.6-9243394.8]\'','Tintaya Vargas Maria',femenino,'La Paz','\'(63-74]\'',25
+'\'(-inf-5601604.2]\'','Marquez Balboa Jose',masculino,'La Paz','\'(63-74]\'',25

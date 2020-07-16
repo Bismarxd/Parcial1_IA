@@ -1,0 +1,30 @@
+@relation 'Datos-354-weka.filters.unsupervised.attribute.ReplaceWithMissingValue-Rfirst-last-S1-P0.1-weka.filters.unsupervised.attribute.ReplaceWithMissingValue-R1,3,5-S1-P0.1-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues'
+
+@attribute ci numeric
+@attribute nombre {'Bismarck Mayta Tintaya','Jaime Aduviri Silvestre','Ines Ticona Bueno','Joel Mamani Churata','Balboa Churqui Miguel','Cordero Mamani Noemi','Flores Espinoza Eva','Laime laguna Osvaldo','Sejas Mamani Limber','Fernandez Balboa Juan','Marca Flores Martha','Garcia Chambi Bryan','Velazques Bautista Alejandra','Chavez Chipana Grover','Yujra Casas Salomon','Laura Menacho Javier','Rodriguez Ortega Jose','Lima Machaca Victoria','Tintaya Vargas Maria','Marquez Balboa Jose'}
+@attribute sexo {masculino,femenino}
+@attribute departamento {'La Paz','La paz'}
+@attribute 'nota promedio' numeric
+@attribute edad numeric
+
+@data
+4856443,'Bismarck Mayta Tintaya',masculino,'La Paz',55,24
+7293130,'Jaime Aduviri Silvestre',masculino,'La paz',58.0625,23
+9879704,'Ines Ticona Bueno',femenino,'La Paz',80,21
+8440582,'Joel Mamani Churata',masculino,'La Paz',45,20
+4901952,'Balboa Churqui Miguel',masculino,'La Paz',65,22
+10092453,'Cordero Mamani Noemi',femenino,'La Paz',59,27
+9254806,'Flores Espinoza Eva',masculino,'La Paz',62,18
+9164035,'Laime laguna Osvaldo',masculino,'La Paz',30,23
+6745234,'Sejas Mamani Limber',masculino,'La Paz',56,21
+4387674,'Fernandez Balboa Juan',masculino,'La Paz',85,26
+9656236,'Marca Flores Martha',femenino,'La Paz',58.0625,22
+6874189,'Garcia Chambi Bryan',masculino,'La Paz',70,20
+5692560,'Velazques Bautista Alejandra',femenino,'La Paz',51,28
+4532045,'Chavez Chipana Grover',masculino,'La Paz',56,25
+5623981,'Yujra Casas Salomon',masculino,'La Paz',56,21
+10457325,'Laura Menacho Javier',masculino,'La Paz',30,27
+7293130,'Rodriguez Ortega Jose',masculino,'La Paz',70,24
+7456329,'Lima Machaca Victoria',femenino,'La Paz',59,22
+8673451,'Tintaya Vargas Maria',femenino,'La Paz',58.0625,25
+4587341,'Bismarck Mayta Tintaya',masculino,'La Paz',58.0625,25
